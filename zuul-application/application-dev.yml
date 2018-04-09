@@ -1,1 +1,7 @@
 test.test: 'foo bar'
+
+zuul:
+  routes:
+    test:
+      path: /test
+      url: http://localhost:8091
