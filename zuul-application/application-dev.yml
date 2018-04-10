@@ -5,3 +5,6 @@ zuul:
     test:
       path: /test
       url: http://localhost:8091
+    test2:
+      path: /app/**
+      url: http://localhost:8092
