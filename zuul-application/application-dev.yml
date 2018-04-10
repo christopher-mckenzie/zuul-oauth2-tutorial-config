@@ -4,4 +4,4 @@ zuul:
   routes:
     test:
       path: /test
-      url: http://localhost:8092
+      url: http://localhost:8091
